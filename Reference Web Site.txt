@@ -1,0 +1,14 @@
+<Beginner Concepts: How CSS Selectors Work>
+https://css-tricks.com/how-css-selectors-work/
+
+<A Complete Guide to Flexbox>
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+<CSS reference>
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+<Markup Validation Service>
+https://validator.w3.org/#validate_by_input
+
+<CSS Validation Service>
+http://jigsaw.w3.org/css-validator/#validate_by_input

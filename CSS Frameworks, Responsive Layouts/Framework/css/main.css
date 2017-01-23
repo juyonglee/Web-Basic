@@ -18,6 +18,8 @@
 .row {
     width: 100%;
     margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .col-1 {

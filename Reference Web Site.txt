@@ -21,3 +21,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
 
 <Another guide on flex>
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+<Media Specific CSS>
+https://developer.chrome.com/devtools/docs/device-mode

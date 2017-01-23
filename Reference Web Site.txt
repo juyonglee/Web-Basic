@@ -30,3 +30,6 @@ http://placehold.it
 
 <placekitten>
 https://placekitten.com
+
+<GoogleFonts>
+https://fonts.google.com

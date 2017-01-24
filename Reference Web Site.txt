@@ -33,3 +33,24 @@ https://placekitten.com
 
 <GoogleFonts>
 https://fonts.google.com
+
+<Bootstrap>
+http://getbootstrap.com/
+
+<Foundation>
+http://foundation.zurb.com/
+
+<Yaml>
+http://www.yaml.de/
+
+<960>
+http://960.gs/
+
+<Susy>
+http://susy.oddbird.net/
+
+<Manually minify CSS>
+http://cssminifier.com/
+
+<Gruntjs>
+http://gruntjs.com
